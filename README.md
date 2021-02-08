@@ -13,6 +13,12 @@ Finally, use PySPark to determine if there is any bias toward favorable reviews 
 
 ![](/images/toal_unpaid.png)
 
+![](/images/paid_5.png)
 
+![](/images/unpaid_5.png)
+
+![](/images/paid_percentage.png)
+
+![](/images/unpaid_percentage.png)
 
 ## Summary 
