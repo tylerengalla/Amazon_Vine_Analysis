@@ -28,3 +28,6 @@ Finally, use PySPark to determine if there is any bias toward favorable reviews 
 ![](/images/unpaid_percentage.png)
 
 ## Summary 
+Given the results, it seems that paying for the Vine service to get paid reviews does not necessarily provide a positivity bias that results in more 5-Star reviews. As we can see from our analysis on the data, the Percentage of Non-Vine or unpaid reviews that received 5-Stars was actually more than the paid reviews. 
+
+But if we were to conduct further analysis, seeing the distribution of all reviews might help us understand if paying for reviews provides positive bias. We might end up seeing that the majority of paid fall in 4 star reviews still giving the product a positive overall rating. 
