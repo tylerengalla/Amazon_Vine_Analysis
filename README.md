@@ -9,16 +9,22 @@ Finally, use PySPark to determine if there is any bias toward favorable reviews 
 
 ## Results 
 
+### Vine Reviews (paid)
 ![](/images/total_paid.png)
 
+### Non-Vine Reviews (unpaid)
 ![](/images/total_unpaid.png)
 
+### Vine 5-Star Reviews 
 ![](/images/paid_5.png)
 
+### Non-Vine 5-Star Reviews
 ![](/images/unpaid_5.png)
 
+### Percentage of Vine reviews that were 5-Stars
 ![](/images/paid_percentage.png)
 
+### Percentage of Non-Vine reviews that were 5-Stars
 ![](/images/unpaid_percentage.png)
 
 ## Summary 
